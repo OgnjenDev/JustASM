@@ -32,7 +32,8 @@ This repository contains the **kernel** and a minimal **bootloader** that allows
 ### Build
 
 ```bash
-bash build.sh
+make all
+```
 
 This will generate:
 
